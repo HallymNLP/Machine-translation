@@ -31,5 +31,5 @@ BLEU Paper Link: [BLEU_Paper](https://www.aclweb.org/anthology/P02-1040.pdf)
     
 * 여기서 chunk 수는 unigram으로 가장 적은 chunk로 그룹화되며, 참조와 후보 문장에 인접하지 않은 매핑이 많을수록 penalty가 높아진다.
 
-** Wikipedia Link: [METEOR](https://en.wikipedia.org/wiki/METEOR)  **
-** METEOR Paper Link: [METEOR_Paper](https://www.cs.cmu.edu/~alavie/papers/BanerjeeLavie2005-final.pdf)**
+**Wikipedia Link: [METEOR](https://en.wikipedia.org/wiki/METEOR)**  
+**METEOR Paper Link: [METEOR_Paper](https://www.cs.cmu.edu/~alavie/papers/BanerjeeLavie2005-final.pdf)**  
