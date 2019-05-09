@@ -12,10 +12,10 @@
 * BLEU의 값은 0~1사이의 숫자이며 n-gram을 통한 순서쌍들이 겹치는 개수와 후보 단어수, 참조 단어수에 따라 값이 바뀐다.
     
 * BLEU 디렉토리에 있는 코드는 unigram ~ quadrigram까지 측정하는 코드이다.  
-  
+------------------------------------------------------------------------------------  
 Wikipedia Link: [BLEU](https://en.wikipedia.org/wiki/BLEU)  
 METEOR Paper Link: [BLEU_Paper](https://www.aclweb.org/anthology/P02-1040.pdf)
-
+-----------------------------------------------------------------------------------------------------
 ## METEOR (Metric for Evaluation of Translation with Explicit ORdering)
     
 * METEOR는 BLEU와 마찬가지로 평가의 기본 단위는 문장이다.
