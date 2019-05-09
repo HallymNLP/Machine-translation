@@ -13,7 +13,7 @@
     
 * BLEU 디렉토리에 있는 코드는 unigram ~ quadrigram까지 측정하는 코드이다.  
 
-Wikipedia Link: [BLEU](https://en.wikipedia.org/wiki/BLEU)
+Wikipedia Link: [BLEU](https://en.wikipedia.org/wiki/BLEU)  
 BLEU Paper Link: [BLEU_Paper](https://www.aclweb.org/anthology/P02-1040.pdf)
 
 ----------------------------------------------
