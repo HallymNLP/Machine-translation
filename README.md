@@ -15,7 +15,7 @@
 
 Wikipedia Link: [BLEU](https://en.wikipedia.org/wiki/BLEU)  
 METEOR Paper Link: [BLEU_Paper](https://www.aclweb.org/anthology/P02-1040.pdf)
-
+----------------------------------------------
 ## METEOR (Metric for Evaluation of Translation with Explicit ORdering)
     
 * METEOR는 BLEU와 마찬가지로 평가의 기본 단위는 문장이다.
